@@ -15,3 +15,5 @@ II. Compile and run the program using NASM.
     Run the executable:
     bash
         ./hello
+       output:
+       Hello, World!
